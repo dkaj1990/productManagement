@@ -7,6 +7,14 @@ In this activity, an Amazon like storefront was created using Node.js and mySQL.
 
 ## Animated GIFs 
 
-## Display Products 
+### Display Products 
+
+![](dp.gif)
+
+### Insufficient Quantity 
 
 ![](iq.gif)
+
+### Order Fulfillment 
+
+![](of.gif)
